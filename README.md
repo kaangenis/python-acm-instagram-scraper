@@ -8,7 +8,7 @@
 
 #ACM Topluluğu için instagram web scraping ve çekiliş işlemlerini yapan bir bot.
 
-Projenin amacı kullanıcının hedeflediği Instagram gönderisindeki yorum yapan kullanıcıların kullanıcı isimleri çekilerek bu kullanıcılar arasında rastgele kazananlar belirlemektir.
+Projenin amacı kullanıcının hedeflediği Instagram gönderisindeki yorum yapan kullanıcıların kullanıcı isimlerinin çekilerek bu kullanıcılar arasında rastgele kazananlar belirlemektir.
 
 'main.py' dosyası çalıştırılarak açılan arayüze hedeflenen gönderinin url'si girildikten sonra 'Yorumları Al' buttonu kullanılarak Selenium tarafından kullanıcı isimleri çekilir.
 

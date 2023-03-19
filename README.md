@@ -6,7 +6,7 @@
 
 -PyQt6
 
-#ACM Topluluğu için instagram web scraping ve çekiliş işlemlerini yapan bir bot.
+#Instagram web scraping ve çekiliş işlemlerini yapan bir bot.
 
 Projenin amacı kullanıcının hedeflediği Instagram gönderisindeki yorum yapan kullanıcıların kullanıcı isimlerinin çekilerek bu kullanıcılar arasında rastgele kazananlar belirlemektir.
 
